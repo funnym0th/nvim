@@ -4,3 +4,5 @@ require("moth.keymaps")
 require("moth.plugins")
 require("moth.theme")
 require("plugins.lualine")
+require("plugins.gitsigns")
+

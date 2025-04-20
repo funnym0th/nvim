@@ -22,7 +22,7 @@ return {
     lualine_b = {'branch', 'diff', 'diagnostics'},
     lualine_c = {'filename'},
     lualine_x = {'encoding', 'filetype'},
-    lualine_y = {'progress'},
+    lualine_y = {'diagnostics'},
     lualine_z = {'location'}
   },
   inactive_sections = {

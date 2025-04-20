@@ -6,5 +6,11 @@ return {
         config = function()
             require('lualine').setup(require('plugins.lualine'))
         end
-    }
+    },
+    { 
+        "lewis6991/gitsigns.nvim",
+        config = function()
+            require('gitsigns').setup(require('plugins.gitsigns'))
+        end
+    },
 }
