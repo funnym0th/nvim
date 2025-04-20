@@ -1,0 +1,5 @@
+require("moth.lazy")
+require("moth.options")
+require("moth.keymaps")
+require("moth.plugins")
+require("moth.theme")

@@ -1,0 +1,6 @@
+{
+  "gruvbox.nvim": { "branch": "main", "commit": "a933d8666dad9363dc6908ae72cfc832299c2f59" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "lightline-gruvbox.vim": { "branch": "master", "commit": "d233416d566e61f879bd19d9d498b01b1b7e336c" },
+  "lightline.vim": { "branch": "master", "commit": "e358557e1a9f9fc860416c8eb2e34c0404078155" }
+}
