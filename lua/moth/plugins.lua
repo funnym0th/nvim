@@ -13,4 +13,11 @@ return {
             require('gitsigns').setup(require('plugins.gitsigns'))
         end
     },
+    {'neovim/nvim-lspconfig'},
+    {
+        'nvim-tree/nvim-tree.lua',
+        config = function()
+            require("nvim-tree").setup(require('plugins.nvim-tree'))
+        end
+    },
 }

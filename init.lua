@@ -1,8 +1,8 @@
 require("moth.lazy")
+require("moth.autostart")
 require("moth.options")
 require("moth.keymaps")
 require("moth.plugins")
 require("moth.theme")
 require("plugins.lualine")
 require("plugins.gitsigns")
-

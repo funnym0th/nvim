@@ -12,3 +12,11 @@ vim.opt.softtabstop = 4
 vim.opt.clipboard = "unnamedplus"
 vim.opt.laststatus = 2
 vim.opt.showmode = false
+
+-- Language Servers
+vim.lsp.enable('pyright')
+vim.lsp.enable('clangd')
+
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
+
